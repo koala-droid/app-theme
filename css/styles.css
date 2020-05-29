@@ -44,7 +44,7 @@ img {
 
 /*SHOWCASE*/
 #showcase{
-    background:url(./images/showcase.jpg) no-repeat center center;
+    background:url(images/showcase.jpg) no-repeat center center;
     border-bottom: 1px solid hotpink;
 }
 #showcase .row{
@@ -83,7 +83,7 @@ img {
 }
 /*INFO*/
 #info {
-    background:url(./images/info-bg.jpg) no-repeat;
+    background:url(images/info-bg.jpg) no-repeat;
     color: whitesmoke;
 }
 #info h2 {
