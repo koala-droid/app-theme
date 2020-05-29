@@ -1,16 +1,16 @@
 # Development Strategy
 
-> `name-of-project`
+> `App Theme`
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- A someone who gotta check my h/w
+- To check the h/w
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://www.youtube.com/watch?v=qlA7dputiNc)
 
 ## 0. Set-Up
 
@@ -22,21 +22,21 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Branch init: HTML structure
 
-__full user story description__
+__User will see how the website is structured via HTML__
 
 ### Repo
 
-what branch(es) did you work on?
+The branch _init_
 
 ### HTML
 
-what did you change in the HTML and why?
+Created the structure of HTML + all pages written out
 
 ### CSS
 
-what did you change in the CSS and why?
+Added auto-margin to centralize containers.
 
 ## 2. ...
 
