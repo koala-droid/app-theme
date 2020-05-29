@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](https://www.youtube.com/watch?v=qlA7dputiNc)
+[wireframe](https://www.youtube.com/watch?v=qlA7dputiNc)
 
 ## 0. Set-Up
 
@@ -28,7 +28,7 @@ __User will see how the website is structured via HTML__
 
 ### Repo
 
-The branch _init_
+The branch _init_ and closes issue nr 1
 
 ### HTML
 
@@ -38,11 +38,21 @@ Created the structure of HTML + all pages written out
 
 Added auto-margin to centralize containers.
 
-## 2. ...
+## 2. Branch styling: CSS styling added
 
-...
+__User will see how the website is styled__
 
-...
+### Repo
+
+The branch _styling_ and closes issue nr 3
+
+### HTML
+
+Minor issues are fixed,e.g. classes added etc.
+
+### CSS
+
+The website is styled
 
 ## Finishing Touches
 
